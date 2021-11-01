@@ -111,6 +111,13 @@
     .cards {
         flex-wrap: wrap;
     }
+    .slide {
+        padding: 50px;
+    }
+    .slide-title {
+        font-size: 38px;
+        width: 350px;
+    }
     .card {
         margin-left: 0;
         margin-top: 20px;
