@@ -157,7 +157,10 @@
     }
     .auth {
         display: block;
-        margin-left: 95px;
+        margin-left: 95px;        
+    }
+    .adv {        
+        padding-bottom: 50px;
     }
 }
 @media (max-width: 396px) {
